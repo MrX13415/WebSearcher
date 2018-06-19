@@ -3,7 +3,7 @@
 # WebSearcher
 
 
-A network utility, wich allows to scan for a open ports in a given IP range.
+This network utility, probes weather the given Ports are open in the given IP-Address range.
 
 
 ---
